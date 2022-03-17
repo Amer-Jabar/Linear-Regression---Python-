@@ -1,8 +1,5 @@
-# -*- coding: utf-8 -*-
 """
-Created on Thu Mar 17 09:29:03 2022
-
-@author: Logan
+    Helper methods for reusability
 """
 
 from random import random, uniform
